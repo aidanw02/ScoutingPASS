@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022TulsaReginol",
+        "defaultValue":"2020ilch",
         "required":"true",
         "disabled":"true"
       },
