@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2020flwp",
+        "defaultValue":"2022sfr",
         "required":"true",
         "disabled":"true"
       },
